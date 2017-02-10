@@ -1,0 +1,61 @@
+Initialize engine version: 5.4.2f2 (b7e030c65c9b)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 530 (ID=0x1912)
+    Vendor:   Intel
+    VRAM:     1008 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll (this message is harmless)
+Loading E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UnityEngine.CloudBuild.dll into Unity Child Domain
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll (this message is harmless)
+Loading E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\UniFileBrowser.dll into Unity Child Domain
+- Completed reload, in  0.050 seconds
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\System.dll (this message is harmless)
+OnLevelWasLoaded was found on ReturnToMainMenu
+This message has been deprecated and will be removed in a later version of Unity.
+Add a delegate to SceneManager.sceneLoaded instead to get notifications after scene loading has completed
+ 
+(Filename:  Line: 375)
+
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Mono.Security.dll (this message is harmless)
+Platform assembly: E:\Download\CarND-Behavioral-Cloning-P3\simulator-windows-64\Default Windows desktop 64-bit_Data\Managed\Boo.Lang.dll (this message is harmless)
+desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.786542 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 77cfc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.957553 ms
+
+Unloading 9 unused Assets to reduce memory usage. Loaded Objects now: 419.
+Total: 0.205296 ms (FindLiveObjects: 0.021491 ms CreateObjectMapping: 0.008019 ms MarkObjects: 0.163595 ms  DeleteObjects: 0.011227 ms)
+
+Unloading 8 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 2.182559 ms
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1001.
+Total: 0.340664 ms (FindLiveObjects: 0.046512 ms CreateObjectMapping: 0.017001 ms MarkObjects: 0.261111 ms  DeleteObjects: 0.014755 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.725595 ms
+
+Unloading 97 unused Assets to reduce memory usage. Loaded Objects now: 466.
+Total: 0.648929 ms (FindLiveObjects: 0.028869 ms CreateObjectMapping: 0.013793 ms MarkObjects: 0.247318 ms  DeleteObjects: 0.357985 ms)
+
